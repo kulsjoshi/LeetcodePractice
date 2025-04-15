@@ -1,0 +1,31 @@
+
+---------------------------------------
+
+🕒 TIME COMPLEXITY (How fast your code runs)
+
+Think of time complexity as:
+
+>> “How many steps does your code take as the input gets bigger?”
+
+📦 Imagine your input is a box of chocolates (n = number of chocolates).
+
+Do you look at every chocolate once? That’s O(n)
+Do you look at every pair of chocolates? That’s O(n²)
+Do you just pick the first chocolate and leave? That’s O(1) (constant time — super fast!)
+
+---------------------------------------
+
+🧠 SPACE COMPLEXITY (How much extra memory your code uses)
+Same idea — but instead of time, we ask:
+
+>> “How much extra space (memory) does my code use as input grows?”
+
+---------------------------------------
+
+🗣️ More Examples You Might Say in Interviews
+
+O(1) → “Constant time”
+O(n) → “Linear time”
+O(n²) → “Quadratic time” (when you're comparing every pair)
+O(log n) → “Logarithmic time” (common in binary search)
+O(n log n) → “n log n time” (common in efficient sorts like MergeSort)
